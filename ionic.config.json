@@ -1,0 +1,7 @@
+{
+  "name": "registo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
